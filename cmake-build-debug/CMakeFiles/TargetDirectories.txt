@@ -1,0 +1,3 @@
+/Users/rafaelmagana/CLionProjects/RIMAEngine/cmake-build-debug/CMakeFiles/RIMAEngine.dir
+/Users/rafaelmagana/CLionProjects/RIMAEngine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rafaelmagana/CLionProjects/RIMAEngine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
