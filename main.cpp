@@ -5,6 +5,9 @@ int main()
 {
     sf::RenderWindow window(sf::VideoMode(800, 600), "RIMA Engine");
     sf::CircleShape shape(50);
+    shape.setFillColor(sf::Color::Green);
+    sf::CircleShape shape2(1);
+    shape2.setFillColor(sf::Color::Red);
 
     while (window.isOpen())
     {
@@ -17,6 +20,7 @@ int main()
 
         window.clear();
         window.draw(shape);
+        window.draw(shape2);
         window.display();
     }
 
