@@ -8,6 +8,8 @@ int main()
     shape.setFillColor(sf::Color::Green);
     sf::CircleShape shape2(10);
     shape2.setFillColor(sf::Color::Red);
+    sf::CircleShape shape3(5);
+    shape2.setFillColor(sf::Color::White);
 
     while (window.isOpen())
     {
@@ -21,6 +23,7 @@ int main()
         window.clear();
         window.draw(shape);
         window.draw(shape2);
+        window.draw(shape3);
         window.display();
     }
 
