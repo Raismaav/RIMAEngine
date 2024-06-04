@@ -9,7 +9,7 @@ int main()
     sf::CircleShape shape2(10);
     shape2.setFillColor(sf::Color::Red);
     sf::CircleShape shape3(5);
-    shape2.setFillColor(sf::Color::White);
+    shape2.setFillColor(sf::Color::Yellow);
 
     while (window.isOpen())
     {
