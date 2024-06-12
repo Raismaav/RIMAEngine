@@ -32,7 +32,6 @@ int main()
         window.draw(shape3);
         window.draw(shape4);
         window.draw(shape5);
-        window.draw(shape6);
         window.display();
     }
 
